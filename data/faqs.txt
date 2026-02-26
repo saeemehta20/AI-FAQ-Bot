@@ -1,0 +1,29 @@
+Q: What does the company do?
+A: XYZ Technologies is an IT services company specializing in AI, Machine Learning, and Web Development solutions.
+
+Q: Where is the company located?
+A: The headquarters is located in Mumbai, India.
+
+Q: How can I apply for a job?
+A: You can apply through the careers section on our official website.
+
+Q: Does the company offer internships?
+A: Yes, we offer internships in AI, Data Science, and Web Development.
+
+Q: What are the working hours?
+A: The standard working hours are 9 AM to 6 PM, Monday to Friday.
+
+Q: Is work from home available?
+A: Yes, hybrid work mode is available depending on the project.
+
+Q: How can I reset my company email password?
+A: You can reset your password using the IT support portal or contact the IT department.
+
+Q: How do I raise a support ticket?
+A: Log in to the internal portal and click on "Raise Support Ticket."
+
+Q: What is the leave policy?
+A: Employees are entitled to 20 paid leaves per year.
+
+Q: What technologies does the company use?
+A: The company uses Python, React, Node.js, and cloud platforms like AWS.
